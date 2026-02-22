@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Atualmente estudante de **Engenharia de Software** na Universidade São Judas Tadeu, estou no 1º semestre. Tenho uma formação técnica em **Contabilidade** pelo Instituto Técnico de Barueri, o que me dá uma visão ampla e estratégica sobre a integração de tecnologia e negócios.
+Atualmente estudante de **Engenharia de Software** na Universidade São Judas Tadeu, estou no 4º semestre. Tenho uma formação técnica em **Contabilidade** pelo Instituto Técnico de Barueri, o que me dá uma visão ampla e estratégica sobre a integração de tecnologia e negócios.
 
 ## O que faço?
 
@@ -22,8 +22,23 @@ Sou uma pessoa **determinada e proativa**, com experiência em **liderança** e 
   Atuei na área de convés e administração, lidando com tarefas burocráticas, como manutenção de planilhas, criação de escalas de serviço, controle de prazos, arquivos e apresentação de slides.
 
 - **CSU Digital** - **Atendente**  
-  *Abr 2024 - Atual*  
+  *Abr 2024 - Dez 2024*  
   Suporte aos analistas de vendas da Kluber Lubrication, atendendo clientes internos e externos por telefone e e-mail, enviando cotações, inserindo pedidos, fazendo follow-up até a conclusão, e controlando chamados abertos usando Excel e Protheus.
+
+- **CSU Digital** - **Analista de Customer Service**   
+  *Dez 2024 - Ago 2025*  
+  Gerenciamento da carteira de clientes estratégicos (BRF, Seara, JBS, M. Dias Branco, Usinas Bunge).  
+  Responsável por cotações, inserção e acompanhamento de pedidos no ERP Protheus.  
+  Automação de processos, follow-up ativo e interface com áreas como expedição, fiscal e planejamento.  
+  Controle e gestão de chamados via Excel e Protheus, assegurando agilidade e qualidade no atendimento.  
+
+- **CSU Digital** - **Analista Operações Pleno**  
+  *Ago 2025 - Atual*  
+  Gerenciamento de grandes contas estratégicas, garantindo atendimento de ponta a ponta no ciclo de pedidos. 
+  Coordenação do fluxo operacional, assegurando cumprimento de prazos, conformidade e qualidade. 
+  Atuação integrada com expedição, fiscal e planejamento para alinhamento de processos. 
+  Monitoramento de métricas de atendimento e elaboração de relatórios de resultados. 
+
 
 ## Contato
 
